@@ -1,0 +1,42 @@
+{
+  "name": "Lavanya Prasanth",
+  "type": "personal",
+  "displayStatsPublic": true,
+  "bio": "Professional II @Capgemini | Full Stack Developer",
+  "avatar": "https://github.com/lavanhub.png",
+  "tags": [
+    "Java",
+    "SpringBoot",
+    "Typescript",
+    "NodeJS"
+  ],
+  "socials": [
+    { "icon": "FaTwitter", "url": "https://twitter.com/lp_lavan" },
+    { "icon": "FaGithub", "url": "https://github.com/lavanhub" },
+    { "icon": "FaYoutube", "url": "https://youtube.com/@splcodecamp9556" }
+  ],
+  "links": [
+    {
+      "name": "Twitter: Follow me",
+      "url": "https://twitter.com/lp_lavan",
+      "icon": "FaTwitter",
+      "color": "#00ACEE"
+    },
+    {
+      "name": "LinkedIn: Let's connect",
+      "url": "https://linkedin.com/in/lavanya-nagarajan-12bb3011a",
+      "icon": "FaLinkedin"
+    }
+  ],
+  "milestones": [
+    {
+      "title": "Started YouTube",
+      "image": "https://github.com/lavanhub.png",
+      "date": "Nov 2022",
+      "icon": "FaYoutube",
+      "color": "red",
+      "description": "Started creating content",
+      "url": "https://youtube.com/@splcodecamp9556"
+    }
+  ]
+}
